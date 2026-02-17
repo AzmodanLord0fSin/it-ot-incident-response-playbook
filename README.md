@@ -173,7 +173,6 @@ This playbook is released under the **MIT License** - free for educational and c
 
 **Tobias K**
 
-- Chief Information Security Officer
 - Background: OT Security in Automotive Production (24/7 Manufacturing)
 - IEC 62443 Certified (Industrial Cybersecurity Professional)
 - Experience: ISO 27001 ISMS, Microsoft Defender XDR, Incident Response
