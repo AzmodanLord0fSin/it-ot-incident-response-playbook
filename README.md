@@ -171,7 +171,7 @@ This playbook is released under the **MIT License** - free for educational and c
 
 ## Author
 
-**Tobias Knobloch**
+**Tobias K**
 
 - Chief Information Security Officer
 - Background: OT Security in Automotive Production (24/7 Manufacturing)
